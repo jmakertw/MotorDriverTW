@@ -13,6 +13,5 @@ MIT
 
 ## Supported targets
 
-* for PXT/microbit with Traditional Chinese
-(The metadata above is needed for package search.)
+* 本擴展程式使用於微雪pxt-Motor馬達擴展板
 
